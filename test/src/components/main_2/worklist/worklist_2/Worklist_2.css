@@ -1,0 +1,10 @@
+.worklist_2 {
+  width: 97.2%;
+  height: 47%;
+  border: 1px solid #bfc2c4;
+  display: flex;
+  justify-content: space-between;
+}
+.worklist_2 img {
+  width: 90%;
+}

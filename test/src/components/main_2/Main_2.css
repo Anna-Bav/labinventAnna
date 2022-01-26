@@ -1,0 +1,12 @@
+/* .main_2 {
+  border: 1px solid blue;
+} */
+.main_2 {
+  width: 85.4%;
+  height: 100%;
+}
+.fl_work {
+  width: 100%;
+  height: 95.1%;
+  display: flex;
+}

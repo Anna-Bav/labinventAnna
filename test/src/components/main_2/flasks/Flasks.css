@@ -1,0 +1,68 @@
+/* .flasks {
+  border: 1px solid blue;
+} */
+.flasks {
+  width: 14%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 5px 5px 5px #cdcfce;
+  background-color: #f1f3f2;
+}
+.flasks_1,
+.flasks_2 {
+  width: 82.6%;
+  height: 18.3%;
+  margin-top: 8%;
+  background-color: #ffffff;
+  border: 1px solid #bfc2c4;
+}
+.sampler,
+.pump {
+  width: 100%;
+  height: 15.8%;
+  border-bottom: 1px solid #bfc2c4;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+.sampler div,
+.pump div {
+  padding-left: 5.3%;
+}
+.flask_plus,
+.pumps {
+  width: 100%;
+  height: 84.2%;
+  display: flex;
+}
+.flask_plus_inner {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.pumps {
+  flex-direction: column;
+}
+.pumps_inner {
+  width: 100%;
+  height: 84.4%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.pumpAB {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+}
+.mlMin {
+  width: 100%;
+  height: 15.6%;
+  text-align: center;
+  padding-bottom: 9.4%;
+}

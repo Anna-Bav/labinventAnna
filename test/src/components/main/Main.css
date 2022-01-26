@@ -1,0 +1,9 @@
+/* .main {
+  border: 1px solid blue;
+} */
+.main {
+  display: flex;
+  width: 1920px;
+  height: 1080px;
+  background-color: #e1e5e8;
+}
